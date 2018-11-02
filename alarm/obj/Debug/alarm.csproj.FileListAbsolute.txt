@@ -1,0 +1,5 @@
+D:\Projects\alarm\alarm\bin\Debug\alarm.exe
+D:\Projects\alarm\alarm\bin\Debug\alarm.pdb
+D:\Projects\alarm\alarm\obj\Debug\alarm.csprojResolveAssemblyReference.cache
+D:\Projects\alarm\alarm\obj\Debug\alarm.exe
+D:\Projects\alarm\alarm\obj\Debug\alarm.pdb
